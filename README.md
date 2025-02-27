@@ -10,7 +10,7 @@ I am passionate developer working on JAVA.
 [![My Skills](https://skillicons.dev/icons?i=css,html,java,react,spring,tailwind,mysql,postman,hibernate,vscode,vite,&perline=20)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yogesh8rajput&theme=highcontrast&hide_border=true&card_width=500&card_height=200&include_all_commits=false&count_private=false)<br/>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/yogesh8rajput?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yogesh8rajput&theme=highcontrast&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh8rajput&theme=highcontrast&hide_border=true&card_width=500&card_height=400&include_all_commits=false&count_private=false&layout=compact)
 
