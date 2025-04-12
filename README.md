@@ -2,7 +2,7 @@
 I am a final-year Computer Science Engineering student (B.Tech, 2025) with a strong interest in web development. I have a solid foundation in HTML, CSS, and JavaScript, and I am currently expanding my expertise by working with React.js to build interactive user interfaces. I am also learning to integrate front-end technologies with Spring Boot for full-stack development, creating efficient web applications that communicate seamlessly between the client and server.
 Throughout my studies, I have developed a passion for problem-solving and crafting impactful solutions. I enjoy tackling complex challenges, designing efficient systems, and constantly refining my work. I value collaboration and have gained experience in team projects, enhancing my skills in communication, time management, and adaptability.
 As I near graduation, I am eager to apply my knowledge in a professional setting. I am seeking internships and job opportunities to further develop my skills in web development, full-stack, and backend engineering while contributing to innovative projects.
-<br>E-mail: yogeshmyrajput38203@gmail.com
+<br><br>E-mail: yogeshmyrajput38203@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kabir253singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/yogesh-rajput-33676624a) 
