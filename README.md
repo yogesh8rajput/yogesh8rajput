@@ -47,7 +47,7 @@ As I near graduation, I am eager to apply my knowledge in a professional setting
 ---
 [![](https://visitcount.itsvg.in/api?id=Yogesh8rajput&icon=2&color=1)](https://visitcount.itsvg.in)
 <p align="center">
-  <i> by Yogesh Rajput</i>
+<!--   <i> by Yogesh Rajput</i> -->
   <i><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Yogesh%20Rajput&section=footer&fontSize=19&fontAlignY=81" alt="🚀 Yogesh Rajput"></i>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
