@@ -28,7 +28,7 @@ As I near graduation, I am eager to apply my knowledge in a professional setting
 <br><br>E-mail: yogeshmyrajput38203@gmail.com
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kabir253singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/yogesh-rajput-33676624a) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yogeshsinghjirajput/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/yogesh-rajput-33676624a) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=css,html,java,react,spring,tailwind,mysql,postman,hibernate,vscode,vite,&perline=20)](https://skillicons.dev)
