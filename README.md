@@ -1,5 +1,5 @@
 <p align="center">
-<!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there!%20I'm%20Yogesh%20Rajput&fontSize=30&fontColor=ffffff" alt="🚀 Yogesh Rajput"> -->
+
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Yogesh%20Rajput&reversal=false&textBg=false&fontColor=black&fontAlign=50&fontAlignY=35&animation=blink&desc=Computer%20Science%20Engineer%20|%20Java%20Enthusiast" alt="🚀 Yogesh Rajput">
 </p>
 
@@ -12,10 +12,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Fast+Learner+%7C+Passionate+Coder+%7C+Team+Player;Java+%7C+Spring+Boot+%7C+ReactJS;Striving+to+solve+real-world+problems!" alt="Typing SVG" />
 </p>
-<!-- @@ -64,13 +57,7 @@ -->
-<!-- <p align="center">
- <img src="[https://github-contributor-stats.vercel.app/api?username=yogesh8rajput&card_width=600&limit=5&theme=neon&combine_all_yearly_contributions=true](https://github-readme-streak-stats.herokuapp.com?user=Yogesh8rajput&theme=highcontrast&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)" alt="Top Contributions"/>Add commentMore actions
-</p> -->
+
 
 ---
 
@@ -48,6 +45,6 @@ As I near graduation, I am eager to apply my knowledge in a professional setting
 [![](https://visitcount.itsvg.in/api?id=Yogesh8rajput&icon=2&color=1)](https://visitcount.itsvg.in)
 <p align="center">
 <!--   <i> by Yogesh Rajput</i> -->
- <i><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Crafted%20with%20❤%20by%20Yogesh%20MRajput&section=footer&fontSize=19&fontAlignY=81" alt="🚀 Yogesh Rajput"></i>
+ <i><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Crafted%20with%20❤%20by%20Yogesh%20Rajput&section=footer&fontSize=19&fontAlignY=81" alt="🚀 Yogesh Rajput"></i>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
