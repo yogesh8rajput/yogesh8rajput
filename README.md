@@ -1,4 +1,4 @@
-<p align="center">Add commentMore actions
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there!%20I'm%20Yogesh%20Rajput&fontSize=30&fontColor=ffffff" alt="🚀 Yogesh Rajput">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Yogesh%20Rajput&reversal=false&textBg=false&fontColor=black&fontAlign=50&fontAlignY=35&animation=blink&desc=Computer%20Science%20Engineer%20|%20Java%20Enthusiast" alt="🚀 Yogesh Rajput">
 </p>
@@ -8,7 +8,6 @@
   <img src="https://avatars.githubusercontent.com/yogesh8rajput" width="150" height="150" style="border-radius: 50%;" alt="Yogesh Rajput">
 </p>
 
-<h3 align="center"> Computer Science Engineer | Java Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Fast+Learner+%7C+Passionate+Coder+%7C+Team+Player;Java+%7C+Spring+Boot+%7C+ReactJS;Striving+to+solve+real-world+problems!" alt="Typing SVG" />
@@ -48,7 +47,7 @@ As I near graduation, I am eager to apply my knowledge in a professional setting
 ---
 [![](https://visitcount.itsvg.in/api?id=Yogesh8rajput&icon=2&color=1)](https://visitcount.itsvg.in)
 <p align="center">
-  <i>Crafted with ❤️ by Yogesh Rajput</i>
-  <i><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Crafted%20with%20❤️%20by%20Yogesh%20MRajput&section=footer&fontSize=19&fontAlignY=81" alt="🚀 Yogesh Rajput"></i>
+  <i> by Yogesh Rajput</i>
+  <i><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Yogesh%20Rajput&section=footer&fontSize=19&fontAlignY=81" alt="🚀 Yogesh Rajput"></i>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
