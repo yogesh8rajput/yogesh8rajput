@@ -27,24 +27,58 @@ Throughout my studies, I have developed a passion for problem-solving and crafti
 As I near graduation, I am eager to apply my knowledge in a professional setting. I am seeking internships and job opportunities to further develop my skills in web development, full-stack, and backend engineering while contributing to innovative projects.
 <br><br>E-mail: yogeshmyrajput38203@gmail.com
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yogeshsinghjirajput/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/yogesh-rajput-33676624a) 
+## 🌐 Connect With Me
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=css,html,java,react,spring,tailwind,mysql,postman,hibernate,vscode,vite,&perline=20)](https://skillicons.dev)
-
-# 📊 GitHub Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/yogesh8rajput?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yogesh8rajput&theme=highcontrast&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh8rajput&theme=highcontrast&hide_border=true&card_width=500&card_height=400&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yogesh8rajput&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="https://www.instagram.com/yogeshsinghjirajput/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/yogesh-rajput-33676624a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yogesh8rajput&icon=2&color=1)](https://visitcount.itsvg.in)
+
+## 💻 Tech Stack
+
 <p align="center">
-<!--   <i> by Yogesh Rajput</i> -->
- <i><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Crafted%20with%20❤%20by%20Yogesh%20Rajput&section=footer&fontSize=19&fontAlignY=81" alt="🚀 Yogesh Rajput"></i>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,spring,tailwind,mysql,hibernate,postman,vscode,vite" />
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yogesh8rajput&show_icons=true&theme=radical&hide_border=true" width="450" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh8rajput&theme=radical&hide_border=true" width="450" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh8rajput&layout=compact&theme=radical&hide_border=true" width="450" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yogesh8rajput&theme=onestar&no-frame=true&margin-w=6" />
+</p>
+
+---
+
+## 🚀 Visitor Count
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Yogesh8rajput&icon=2&color=1" alt="Profile Views" />
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Crafted%20with%20❤%20by%20Yogesh%20Rajput&section=footer&fontSize=18" />
+</p>
+
