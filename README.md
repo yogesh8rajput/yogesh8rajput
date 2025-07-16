@@ -59,6 +59,8 @@ As I near graduation, I am eager to apply my knowledge in a professional setting
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh8rajput&layout=compact&theme=radical&hide_border=true" width="450" alt="Top Languages" />
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=Yogesh8rajput&icon=2&color=1)](https://visitcount.itsvg.in)
+
 ---
 
 ## 🏆 GitHub Trophies
