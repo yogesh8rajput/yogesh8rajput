@@ -43,7 +43,7 @@ As I near graduation, I am eager to apply my knowledge in a professional setting
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,spring,tailwind,mysql,hibernate,postman,vscode,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,spring,tailwind,mysql,hibernate,postman,vscode,vite," />
 </p>
 
 ---
