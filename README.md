@@ -70,14 +70,14 @@ As I near graduation, I am eager to apply my knowledge in a professional setting
 </p>
 
 ---
-
+<!--
 ## 🚀 Visitor Count
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Yogesh8rajput&icon=2&color=1" alt="Profile Views" />
 </p>
-
 ---
+-->
 
 <!-- Footer -->
 <p align="center">
