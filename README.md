@@ -27,6 +27,9 @@ Throughout my studies, I have developed a passion for problem-solving and crafti
 As I near graduation, I am eager to apply my knowledge in a professional setting. I am seeking internships and job opportunities to further develop my skills in web development, full-stack, and backend engineering while contributing to innovative projects.
 <br><br>E-mail: yogeshmyrajput38203@gmail.com
 
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
