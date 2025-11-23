@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Yogesh%20Rajput&reversal=false&textBg=false&fontColor=black&fontAlign=50&fontAlignY=35&animation=blink&desc=Computer%20Science%20Engineer%20|%20Java%20Enthusiast" alt="🚀 Yogesh Rajput">
 </p>
 
-<!-- Profile Picture 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/yogesh8rajput" width="150" height="150" style="border-radius: 50%;" alt="Yogesh Rajput">
-</p>
 
 -->
 <p align="center">
