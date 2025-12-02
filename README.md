@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Yogesh%20Rajput&reversal=false&textBg=false&fontColor=black&fontAlign=50&fontAlignY=35&animation=blink&desc=Computer%20Science%20Engineer%20|%20Java%20Enthusiast" alt="🚀 Yogesh Rajput">
 </p>
 
-
--->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Fast+Learner+%7C+Passionate+Coder+%7C+Team+Player;Java+%7C+Spring+Boot+%7C+ReactJS;Striving+to+solve+real-world+problems!" alt="Typing SVG" />
 </p>
